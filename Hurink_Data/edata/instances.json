@@ -1,0 +1,398 @@
+[
+  {
+    "name": "abz5",
+    "jobs": 10,
+    "machines": 10,
+    "path": "Hurink_Data/edata/abz5.fjs"
+  },
+  {
+    "name": "abz6",
+    "jobs": 10,
+    "machines": 10,
+    "path": "Hurink_Data/edata/abz6.fjs"
+  },
+  {
+    "name": "abz7",
+    "jobs": 20,
+    "machines": 15,
+    "path": "Hurink_Data/edata/abz7.fjs"
+  },
+  {
+    "name": "abz8",
+    "jobs": 20,
+    "machines": 15,
+    "path": "Hurink_Data/edata/abz8.fjs"
+  },
+  {
+    "name": "abz9",
+    "jobs": 20,
+    "machines": 15,
+    "path": "Hurink_Data/edata/abz9.fjs"
+  },
+  {
+    "name": "car1",
+    "jobs": 11,
+    "machines": 5,
+    "path": "Hurink_Data/edata/car1.fjs"
+  },
+  {
+    "name": "car2",
+    "jobs": 13,
+    "machines": 4,
+    "path": "Hurink_Data/edata/car2.fjs"
+  },
+  {
+    "name": "car3",
+    "jobs": 12,
+    "machines": 5,
+    "path": "Hurink_Data/edata/car3.fjs"
+  },
+  {
+    "name": "car4",
+    "jobs": 14,
+    "machines": 4,
+    "path": "Hurink_Data/edata/car4.fjs"
+  },
+  {
+    "name": "car5",
+    "jobs": 10,
+    "machines": 6,
+    "path": "Hurink_Data/edata/car5.fjs"
+  },
+  {
+    "name": "car6",
+    "jobs": 8,
+    "machines": 9,
+    "path": "Hurink_Data/edata/car6.fjs"
+  },
+  {
+    "name": "car7",
+    "jobs": 7,
+    "machines": 7,
+    "path": "Hurink_Data/edata/car7.fjs"
+  },
+  {
+    "name": "car8",
+    "jobs": 8,
+    "machines": 8,
+    "path": "Hurink_Data/edata/car8.fjs"
+  },
+  {
+    "name": "la01",
+    "jobs": 10,
+    "machines": 5,
+    "path": "Hurink_Data/edata/la01.fjs"
+  },
+  {
+    "name": "la02",
+    "jobs": 10,
+    "machines": 5,
+    "path": "Hurink_Data/edata/la02.fjs"
+  },
+  {
+    "name": "la03",
+    "jobs": 10,
+    "machines": 5,
+    "path": "Hurink_Data/edata/la03.fjs"
+  },
+  {
+    "name": "la04",
+    "jobs": 10,
+    "machines": 5,
+    "path": "Hurink_Data/edata/la04.fjs"
+  },
+  {
+    "name": "la05",
+    "jobs": 10,
+    "machines": 5,
+    "path": "Hurink_Data/edata/la05.fjs"
+  },
+  {
+    "name": "la06",
+    "jobs": 15,
+    "machines": 5,
+    "path": "Hurink_Data/edata/la06.fjs"
+  },
+  {
+    "name": "la07",
+    "jobs": 15,
+    "machines": 5,
+    "path": "Hurink_Data/edata/la07.fjs"
+  },
+  {
+    "name": "la08",
+    "jobs": 15,
+    "machines": 5,
+    "path": "Hurink_Data/edata/la08.fjs"
+  },
+  {
+    "name": "la09",
+    "jobs": 15,
+    "machines": 5,
+    "path": "Hurink_Data/edata/la09.fjs"
+  },
+  {
+    "name": "la10",
+    "jobs": 15,
+    "machines": 5,
+    "path": "Hurink_Data/edata/la10.fjs"
+  },
+  {
+    "name": "la11",
+    "jobs": 20,
+    "machines": 5,
+    "path": "Hurink_Data/edata/la11.fjs"
+  },
+  {
+    "name": "la12",
+    "jobs": 20,
+    "machines": 5,
+    "path": "Hurink_Data/edata/la12.fjs"
+  },
+  {
+    "name": "la13",
+    "jobs": 20,
+    "machines": 5,
+    "path": "Hurink_Data/edata/la13.fjs"
+  },
+  {
+    "name": "la14",
+    "jobs": 20,
+    "machines": 5,
+    "path": "Hurink_Data/edata/la14.fjs"
+  },
+  {
+    "name": "la15",
+    "jobs": 20,
+    "machines": 5,
+    "path": "Hurink_Data/edata/la15.fjs"
+  },
+  {
+    "name": "la16",
+    "jobs": 10,
+    "machines": 10,
+    "path": "Hurink_Data/edata/la16.fjs"
+  },
+  {
+    "name": "la17",
+    "jobs": 10,
+    "machines": 10,
+    "path": "Hurink_Data/edata/la17.fjs"
+  },
+  {
+    "name": "la18",
+    "jobs": 10,
+    "machines": 10,
+    "path": "Hurink_Data/edata/la18.fjs"
+  },
+  {
+    "name": "la19",
+    "jobs": 10,
+    "machines": 10,
+    "path": "Hurink_Data/edata/la19.fjs"
+  },
+  {
+    "name": "la20",
+    "jobs": 10,
+    "machines": 10,
+    "path": "Hurink_Data/edata/la20.fjs"
+  },
+  {
+    "name": "la21",
+    "jobs": 15,
+    "machines": 10,
+    "path": "Hurink_Data/edata/la21.fjs"
+  },
+  {
+    "name": "la22",
+    "jobs": 15,
+    "machines": 10,
+    "path": "Hurink_Data/edata/la22.fjs"
+  },
+  {
+    "name": "la23",
+    "jobs": 15,
+    "machines": 10,
+    "path": "Hurink_Data/edata/la23.fjs"
+  },
+  {
+    "name": "la24",
+    "jobs": 15,
+    "machines": 10,
+    "path": "Hurink_Data/edata/la24.fjs"
+  },
+  {
+    "name": "la25",
+    "jobs": 15,
+    "machines": 10,
+    "path": "Hurink_Data/edata/la25.fjs"
+  },
+  {
+    "name": "la26",
+    "jobs": 20,
+    "machines": 10,
+    "path": "Hurink_Data/edata/la26.fjs"
+  },
+  {
+    "name": "la27",
+    "jobs": 20,
+    "machines": 10,
+    "path": "Hurink_Data/edata/la27.fjs"
+  },
+  {
+    "name": "la28",
+    "jobs": 20,
+    "machines": 10,
+    "path": "Hurink_Data/edata/la28.fjs"
+  },
+  {
+    "name": "la29",
+    "jobs": 20,
+    "machines": 10,
+    "path": "Hurink_Data/edata/la29.fjs"
+  },
+  {
+    "name": "la30",
+    "jobs": 20,
+    "machines": 10,
+    "path": "Hurink_Data/edata/la30.fjs"
+  },
+  {
+    "name": "la31",
+    "jobs": 30,
+    "machines": 10,
+    "path": "Hurink_Data/edata/la31.fjs"
+  },
+  {
+    "name": "la32",
+    "jobs": 30,
+    "machines": 10,
+    "path": "Hurink_Data/edata/la32.fjs"
+  },
+  {
+    "name": "la33",
+    "jobs": 30,
+    "machines": 10,
+    "path": "Hurink_Data/edata/la33.fjs"
+  },
+  {
+    "name": "la34",
+    "jobs": 30,
+    "machines": 10,
+    "path": "Hurink_Data/edata/la34.fjs"
+  },
+  {
+    "name": "la35",
+    "jobs": 30,
+    "machines": 10,
+    "path": "Hurink_Data/edata/la35.fjs"
+  },
+  {
+    "name": "la36",
+    "jobs": 15,
+    "machines": 15,
+    "path": "Hurink_Data/edata/la36.fjs"
+  },
+  {
+    "name": "la37",
+    "jobs": 15,
+    "machines": 15,
+    "path": "Hurink_Data/edata/la37.fjs"
+  },
+  {
+    "name": "la38",
+    "jobs": 15,
+    "machines": 15,
+    "path": "Hurink_Data/edata/la38.fjs"
+  },
+  {
+    "name": "la39",
+    "jobs": 15,
+    "machines": 15,
+    "path": "Hurink_Data/edata/la39.fjs"
+  },
+  {
+    "name": "la40",
+    "jobs": 15,
+    "machines": 15,
+    "path": "Hurink_Data/edata/la40.fjs"
+  },
+  {
+    "name": "mt06",
+    "jobs": 6,
+    "machines": 6,
+    "path": "Hurink_Data/edata/mt06.fjs"
+  },
+  {
+    "name": "mt10",
+    "jobs": 10,
+    "machines": 10,
+    "path": "Hurink_Data/edata/mt10.fjs"
+  },
+  {
+    "name": "mt20",
+    "jobs": 20,
+    "machines": 5,
+    "path": "Hurink_Data/edata/mt20.fjs"
+  },
+  {
+    "name": "orb1",
+    "jobs": 10,
+    "machines": 10,
+    "path": "Hurink_Data/edata/orb1.fjs"
+  },
+  {
+    "name": "orb10",
+    "jobs": 10,
+    "machines": 10,
+    "path": "Hurink_Data/edata/orb10.fjs"
+  },
+  {
+    "name": "orb2",
+    "jobs": 10,
+    "machines": 10,
+    "path": "Hurink_Data/edata/orb2.fjs"
+  },
+  {
+    "name": "orb3",
+    "jobs": 10,
+    "machines": 10,
+    "path": "Hurink_Data/edata/orb3.fjs"
+  },
+  {
+    "name": "orb4",
+    "jobs": 10,
+    "machines": 10,
+    "path": "Hurink_Data/edata/orb4.fjs"
+  },
+  {
+    "name": "orb5",
+    "jobs": 10,
+    "machines": 10,
+    "path": "Hurink_Data/edata/orb5.fjs"
+  },
+  {
+    "name": "orb6",
+    "jobs": 10,
+    "machines": 10,
+    "path": "Hurink_Data/edata/orb6.fjs"
+  },
+  {
+    "name": "orb7",
+    "jobs": 10,
+    "machines": 10,
+    "path": "Hurink_Data/edata/orb7.fjs"
+  },
+  {
+    "name": "orb8",
+    "jobs": 10,
+    "machines": 10,
+    "path": "Hurink_Data/edata/orb8.fjs"
+  },
+  {
+    "name": "orb9",
+    "jobs": 10,
+    "machines": 10,
+    "path": "Hurink_Data/edata/orb9.fjs"
+  }
+]

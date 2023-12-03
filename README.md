@@ -1,6 +1,12 @@
 # FJSP-benchmark
 Benchmark instances for flexible job-shop scheduling problem
 
+## Important! ! !
+
+Because the folder ```Hurink_Data``` has several subfolders with the same fjs file name, the script to generate ```instances.json``` no longer works. Therefore, ```instances.json``` in the main folder does not contain the instances in the ```Hurink_Data``` folder! ! !
+
+However, we have generated a separate ```instances.json``` file in each subdirectory of the ```Hurink_Data``` folder for your use.
+
 ## Data description
 
 in the first line there are (at least) 2 numbers: the first is the number of jobs and the second the number of machines (the 3rd is not necessary, it is the average number of machines per operation)

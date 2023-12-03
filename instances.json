@@ -1,0 +1,296 @@
+[
+  {
+    "name": "Mk01",
+    "jobs": 10,
+    "machines": 6,
+    "path": "Mk/Mk01.fjs"
+  },
+  {
+    "name": "Mk02",
+    "jobs": 10,
+    "machines": 6,
+    "path": "Mk/Mk02.fjs"
+  },
+  {
+    "name": "Mk03",
+    "jobs": 15,
+    "machines": 8,
+    "path": "Mk/Mk03.fjs"
+  },
+  {
+    "name": "Mk04",
+    "jobs": 15,
+    "machines": 8,
+    "path": "Mk/Mk04.fjs"
+  },
+  {
+    "name": "Mk05",
+    "jobs": 15,
+    "machines": 4,
+    "path": "Mk/Mk05.fjs"
+  },
+  {
+    "name": "Mk06",
+    "jobs": 10,
+    "machines": 15,
+    "path": "Mk/Mk06.fjs"
+  },
+  {
+    "name": "Mk07",
+    "jobs": 20,
+    "machines": 5,
+    "path": "Mk/Mk07.fjs"
+  },
+  {
+    "name": "Mk08",
+    "jobs": 20,
+    "machines": 10,
+    "path": "Mk/Mk08.fjs"
+  },
+  {
+    "name": "Mk09",
+    "jobs": 20,
+    "machines": 10,
+    "path": "Mk/Mk09.fjs"
+  },
+  {
+    "name": "Mk10",
+    "jobs": 20,
+    "machines": 15,
+    "path": "Mk/Mk10.fjs"
+  },
+  {
+    "name": "DP01",
+    "jobs": 10,
+    "machines": 5,
+    "path": "DP/01a.fjs"
+  },
+  {
+    "name": "DP02",
+    "jobs": 10,
+    "machines": 5,
+    "path": "DP/02a.fjs"
+  },
+  {
+    "name": "DP03",
+    "jobs": 10,
+    "machines": 5,
+    "path": "DP/03a.fjs"
+  },
+  {
+    "name": "DP04",
+    "jobs": 10,
+    "machines": 5,
+    "path": "DP/04a.fjs"
+  },
+  {
+    "name": "DP05",
+    "jobs": 10,
+    "machines": 5,
+    "path": "DP/05a.fjs"
+  },
+  {
+    "name": "DP06",
+    "jobs": 10,
+    "machines": 5,
+    "path": "DP/06a.fjs"
+  },
+  {
+    "name": "DP07",
+    "jobs": 15,
+    "machines": 8,
+    "path": "DP/07a.fjs"
+  },
+  {
+    "name": "DP08",
+    "jobs": 15,
+    "machines": 8,
+    "path": "DP/08a.fjs"
+  },
+  {
+    "name": "DP09",
+    "jobs": 15,
+    "machines": 8,
+    "path": "DP/09a.fjs"
+  },
+  {
+    "name": "DP10",
+    "jobs": 15,
+    "machines": 8,
+    "path": "DP/10a.fjs"
+  },
+  {
+    "name": "DP11",
+    "jobs": 15,
+    "machines": 8,
+    "path": "DP/11a.fjs"
+  },
+  {
+    "name": "DP12",
+    "jobs": 15,
+    "machines": 8,
+    "path": "DP/12a.fjs"
+  },
+  {
+    "name": "DP13",
+    "jobs": 20,
+    "machines": 10,
+    "path": "DP/13a.fjs"
+  },
+  {
+    "name": "DP14",
+    "jobs": 20,
+    "machines": 10,
+    "path": "DP/14a.fjs"
+  },
+  {
+    "name": "DP15",
+    "jobs": 20,
+    "machines": 10,
+    "path": "DP/15a.fjs"
+  },
+  {
+    "name": "DP16",
+    "jobs": 20,
+    "machines": 10,
+    "path": "DP/16a.fjs"
+  },
+  {
+    "name": "DP17",
+    "jobs": 20,
+    "machines": 10,
+    "path": "DP/17a.fjs"
+  },
+  {
+    "name": "DP18",
+    "jobs": 20,
+    "machines": 10,
+    "path": "DP/18a.fjs"
+  },
+  {
+    "name": "mt10c1",
+    "jobs": 10,
+    "machines": 11,
+    "path": "Barnes/mt10c1.fjs"
+  },
+  {
+    "name": "mt10cc",
+    "jobs": 10,
+    "machines": 12,
+    "path": "Barnes/mt10cc.fjs"
+  },
+  {
+    "name": "mt10x",
+    "jobs": 10,
+    "machines": 11,
+    "path": "Barnes/mt10x.fjs"
+  },
+  {
+    "name": "mt10xx",
+    "jobs": 10,
+    "machines": 12,
+    "path": "Barnes/mt10xx.fjs"
+  },
+  {
+    "name": "mt10xxx",
+    "jobs": 10,
+    "machines": 13,
+    "path": "Barnes/mt10xxx.fjs"
+  },
+  {
+    "name": "mt10xy",
+    "jobs": 10,
+    "machines": 12,
+    "path": "Barnes/mt10xy.fjs"
+  },
+  {
+    "name": "mt10xyz",
+    "jobs": 10,
+    "machines": 13,
+    "path": "Barnes/mt10xyz.fjs"
+  },
+  {
+    "name": "setb4c9",
+    "jobs": 15,
+    "machines": 11,
+    "path": "Barnes/setb4c9.fjs"
+  },
+  {
+    "name": "setb4cc",
+    "jobs": 15,
+    "machines": 12,
+    "path": "Barnes/setb4cc.fjs"
+  },
+  {
+    "name": "setb4x",
+    "jobs": 15,
+    "machines": 11,
+    "path": "Barnes/setb4x.fjs"
+  },
+  {
+    "name": "setb4xx",
+    "jobs": 15,
+    "machines": 12,
+    "path": "Barnes/setb4xx.fjs"
+  },
+  {
+    "name": "setb4xxx",
+    "jobs": 15,
+    "machines": 13,
+    "path": "Barnes/setb4xxx.fjs"
+  },
+  {
+    "name": "setb4xy",
+    "jobs": 15,
+    "machines": 12,
+    "path": "Barnes/setb4xy.fjs"
+  },
+  {
+    "name": "setb4xyz",
+    "jobs": 15,
+    "machines": 13,
+    "path": "Barnes/setb4xyz.fjs"
+  },
+  {
+    "name": "seti5c12",
+    "jobs": 15,
+    "machines": 16,
+    "path": "Barnes/seti5c12.fjs"
+  },
+  {
+    "name": "seti5cc",
+    "jobs": 15,
+    "machines": 17,
+    "path": "Barnes/seti5cc.fjs"
+  },
+  {
+    "name": "seti5x",
+    "jobs": 15,
+    "machines": 16,
+    "path": "Barnes/seti5x.fjs"
+  },
+  {
+    "name": "seti5xx",
+    "jobs": 15,
+    "machines": 17,
+    "path": "Barnes/seti5xx.fjs"
+  },
+  {
+    "name": "seti5xxx",
+    "jobs": 15,
+    "machines": 18,
+    "path": "Barnes/seti5xxx.fjs"
+  },
+  {
+    "name": "seti5xy",
+    "jobs": 15,
+    "machines": 17,
+    "path": "Barnes/seti5xy.fjs"
+  },
+  {
+    "name": "seti5xyz",
+    "jobs": 15,
+    "machines": 18,
+    "path": "Barnes/seti5xyz.fjs"
+  }
+]
